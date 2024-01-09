@@ -46,6 +46,21 @@ Generate a query to retrieve all track names with a song length longer than the 
 
 
 ##SQL Query
+ ### 1) Create Database
+``` SQL
+CREATE DATABASE Music_store;
+```
+
+    ### 2) Import Data to SQL Server
+- Right-click on Music_store > Tasks > Import Data
+- Use import wizard to import Music_store.csv file
+- - Verify that the import worked:
+
+ 
+  - ``` SQL
+use Music_store;
+```
+
 /* Q1: Who is the senior most employee based on job title? */
 
 ```SQL
@@ -158,6 +173,3 @@ LIMIT 1
 ```
 
 
-``` SQL
-CREATE DATABASE hr;
-```
