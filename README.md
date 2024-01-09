@@ -57,7 +57,7 @@ CREATE DATABASE Music_store;
 - - Verify that the import worked:
 
  
-  - ``` SQL
+   ``` SQL
 use Music_store;
 ```
 
