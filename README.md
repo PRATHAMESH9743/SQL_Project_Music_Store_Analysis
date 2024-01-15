@@ -5,7 +5,7 @@ SQL project to analyze online music store data
 The Goal of this project is to analyze the music playlist database. and to examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
 ## Database and Tools
-MySQL
+MySQL version 2023
 
 ## Problem Statement for SQL Project: Music Store Analysis
 The objective of this SQL project is to analyze a music store database and extract valuable insights to inform business decisions. 
