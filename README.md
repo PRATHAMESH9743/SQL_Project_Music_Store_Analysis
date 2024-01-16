@@ -1,4 +1,4 @@
-# SQL_Project_Music_Store_Analysis 2023
+# SQL Project Music Store Analysis
 
 SQL project to analyze online music store data
 
